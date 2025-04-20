@@ -1,0 +1,24 @@
+[
+    {
+      "id": "p1",
+      "name": "Apple iPhone 15",
+      "category": "手机",
+      "price": 6999,
+      "features": "A17芯片，超视网膜XDR显示屏，4800万像素主摄"
+    },
+    {
+      "id": "p2",
+      "name": "Xiaomi 14 Ultra",
+      "category": "手机",
+      "price": 5999,
+      "features": "徕卡光学，骁龙8Gen3，2K OLED屏幕"
+    },
+    {
+      "id": "p3",
+      "name": "MacBook Pro M3",
+      "category": "笔记本",
+      "price": 13999,
+      "features": "M3 Pro 芯片，14英寸 Liquid Retina XDR，18小时续航"
+    }
+  ]
+  
